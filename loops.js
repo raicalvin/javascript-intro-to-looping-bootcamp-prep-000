@@ -10,5 +10,8 @@ function forLoop(arr) {
 }
 
 function whileLoop(num) {
-  
+  while () {
+    console.log(num);
+    num--;
+  }
 }
